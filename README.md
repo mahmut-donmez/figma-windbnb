@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://sage-manatee-45a97d.netlify.app">  
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/mahmut-donmez/figma-windbnb">
       Solution
     </a>
     <span> | </span>
